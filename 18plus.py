@@ -1,4 +1,4 @@
-age = int(input("Введіть вік: "))
+age = int(input("введіть вік: "))
 
 if age >= 18:
     print("вхід дозволено")
