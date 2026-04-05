@@ -8,3 +8,5 @@ while True:
     else:
         t = f"{a}{op}{b}"
         print(f"{t} = {str(eval(t))}")
+
+# https://www.youtube.com/shorts/UdQAiSsqNuw
